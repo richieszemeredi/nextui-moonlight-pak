@@ -1,6 +1,5 @@
 build/
 .cache/
 .claude/
-CLAUDE.md
 .DS_Store
 *.o
